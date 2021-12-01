@@ -2,179 +2,179 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
+    <link>https://santidu.github.io/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://santidu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>plot</title>
-      <link>http://example.org/tags/plot/</link>
+      <link>https://santidu.github.io/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>http://example.org/tags/plot/</guid>
+      <guid>https://santidu.github.io/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>http://example.org/tags/r-markdown/</link>
+      <link>https://santidu.github.io/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>http://example.org/tags/r-markdown/</guid>
+      <guid>https://santidu.github.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>http://example.org/tags/regression/</link>
+      <link>https://santidu.github.io/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>http://example.org/tags/regression/</guid>
+      <guid>https://santidu.github.io/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Death</title>
-      <link>http://example.org/tags/death/</link>
+      <link>https://santidu.github.io/tags/death/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/death/</guid>
+      <guid>https://santidu.github.io/tags/death/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lucilius</title>
-      <link>http://example.org/tags/lucilius/</link>
+      <link>https://santidu.github.io/tags/lucilius/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/lucilius/</guid>
+      <guid>https://santidu.github.io/tags/lucilius/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seneca</title>
-      <link>http://example.org/tags/seneca/</link>
+      <link>https://santidu.github.io/tags/seneca/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/seneca/</guid>
+      <guid>https://santidu.github.io/tags/seneca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>http://example.org/tags/tutorial/</link>
+      <link>https://santidu.github.io/tags/tutorial/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/tutorial/</guid>
+      <guid>https://santidu.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poverty</title>
-      <link>http://example.org/tags/poverty/</link>
+      <link>https://santidu.github.io/tags/poverty/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/poverty/</guid>
+      <guid>https://santidu.github.io/tags/poverty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reading</title>
-      <link>http://example.org/tags/reading/</link>
+      <link>https://santidu.github.io/tags/reading/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/reading/</guid>
+      <guid>https://santidu.github.io/tags/reading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thinker</title>
-      <link>http://example.org/tags/thinker/</link>
+      <link>https://santidu.github.io/tags/thinker/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/thinker/</guid>
+      <guid>https://santidu.github.io/tags/thinker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wealth</title>
-      <link>http://example.org/tags/wealth/</link>
+      <link>https://santidu.github.io/tags/wealth/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/wealth/</guid>
+      <guid>https://santidu.github.io/tags/wealth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>http://example.org/tags/nature/</link>
+      <link>https://santidu.github.io/tags/nature/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/nature/</guid>
+      <guid>https://santidu.github.io/tags/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time</title>
-      <link>http://example.org/tags/time/</link>
+      <link>https://santidu.github.io/tags/time/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/time/</guid>
+      <guid>https://santidu.github.io/tags/time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>appendix</title>
-      <link>http://example.org/tags/appendix/</link>
+      <link>https://santidu.github.io/tags/appendix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/appendix/</guid>
+      <guid>https://santidu.github.io/tags/appendix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>citation</title>
-      <link>http://example.org/tags/citation/</link>
+      <link>https://santidu.github.io/tags/citation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/citation/</guid>
+      <guid>https://santidu.github.io/tags/citation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>menu</title>
-      <link>http://example.org/tags/menu/</link>
+      <link>https://santidu.github.io/tags/menu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/menu/</guid>
+      <guid>https://santidu.github.io/tags/menu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>numbered section</title>
-      <link>http://example.org/tags/numbered-section/</link>
+      <link>https://santidu.github.io/tags/numbered-section/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/numbered-section/</guid>
+      <guid>https://santidu.github.io/tags/numbered-section/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sidenote</title>
-      <link>http://example.org/tags/sidenote/</link>
+      <link>https://santidu.github.io/tags/sidenote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/sidenote/</guid>
+      <guid>https://santidu.github.io/tags/sidenote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TOC</title>
-      <link>http://example.org/tags/toc/</link>
+      <link>https://santidu.github.io/tags/toc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/toc/</guid>
+      <guid>https://santidu.github.io/tags/toc/</guid>
       <description></description>
     </item>
     

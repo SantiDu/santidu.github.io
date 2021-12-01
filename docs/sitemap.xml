@@ -2,122 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/card/philosophy/</loc>
+    <loc>https://santidu.github.io/card/philosophy/</loc>
   </url><url>
-    <loc>http://example.org/card/projects/</loc>
+    <loc>https://santidu.github.io/card/projects/</loc>
   </url><url>
-    <loc>http://example.org/card/publications/</loc>
+    <loc>https://santidu.github.io/card/publications/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://santidu.github.io/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://santidu.github.io/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://santidu.github.io/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/plot/</loc>
+    <loc>https://santidu.github.io/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://santidu.github.io/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/r/</loc>
+    <loc>https://santidu.github.io/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/r-markdown/</loc>
+    <loc>https://santidu.github.io/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/regression/</loc>
+    <loc>https://santidu.github.io/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://santidu.github.io/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/r-markdown-demo/</loc>
+    <loc>https://santidu.github.io/post/r-markdown-demo/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/death/</loc>
+    <loc>https://santidu.github.io/tags/death/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/example/</loc>
+    <loc>https://santidu.github.io/categories/example/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/letter/</loc>
+    <loc>https://santidu.github.io/categories/letter/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/2019-07-30-letter-4/</loc>
+    <loc>https://santidu.github.io/post/2019-07-30-letter-4/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/lucilius/</loc>
+    <loc>https://santidu.github.io/tags/lucilius/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/seneca/</loc>
+    <loc>https://santidu.github.io/tags/seneca/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/essay/</loc>
+    <loc>https://santidu.github.io/categories/essay/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/work/essays/</loc>
+    <loc>https://santidu.github.io/work/essays/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/tutorial/</loc>
+    <loc>https://santidu.github.io/tags/tutorial/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/work/</loc>
+    <loc>https://santidu.github.io/work/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/publication/</loc>
+    <loc>https://santidu.github.io/categories/publication/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/work/tragedies/</loc>
+    <loc>https://santidu.github.io/work/tragedies/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/2016-02-14-letter-2/</loc>
+    <loc>https://santidu.github.io/post/2016-02-14-letter-2/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/poverty/</loc>
+    <loc>https://santidu.github.io/tags/poverty/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/reading/</loc>
+    <loc>https://santidu.github.io/tags/reading/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/thinker/</loc>
+    <loc>https://santidu.github.io/tags/thinker/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/wealth/</loc>
+    <loc>https://santidu.github.io/tags/wealth/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/2015-07-23-letter-1/</loc>
+    <loc>https://santidu.github.io/post/2015-07-23-letter-1/</loc>
     <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/nature/</loc>
+    <loc>https://santidu.github.io/tags/nature/</loc>
     <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/time/</loc>
+    <loc>https://santidu.github.io/tags/time/</loc>
     <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://santidu.github.io/about/</loc>
   </url><url>
-    <loc>http://example.org/tags/appendix/</loc>
+    <loc>https://santidu.github.io/tags/appendix/</loc>
   </url><url>
-    <loc>http://example.org/card/</loc>
+    <loc>https://santidu.github.io/card/</loc>
   </url><url>
-    <loc>http://example.org/tags/citation/</loc>
+    <loc>https://santidu.github.io/tags/citation/</loc>
   </url><url>
-    <loc>http://example.org/categories/hugo/</loc>
+    <loc>https://santidu.github.io/categories/hugo/</loc>
   </url><url>
-    <loc>http://example.org/tags/menu/</loc>
+    <loc>https://santidu.github.io/tags/menu/</loc>
   </url><url>
-    <loc>http://example.org/tags/numbered-section/</loc>
+    <loc>https://santidu.github.io/tags/numbered-section/</loc>
   </url><url>
-    <loc>http://example.org/tags/sidenote/</loc>
+    <loc>https://santidu.github.io/tags/sidenote/</loc>
   </url><url>
-    <loc>http://example.org/sitemap/</loc>
+    <loc>https://santidu.github.io/sitemap/</loc>
   </url><url>
-    <loc>http://example.org/categories/theme/</loc>
+    <loc>https://santidu.github.io/categories/theme/</loc>
   </url><url>
-    <loc>http://example.org/tags/toc/</loc>
+    <loc>https://santidu.github.io/tags/toc/</loc>
   </url>
 </urlset>

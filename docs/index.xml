@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://santidu.github.io/</link>
     <description>Recent content in Home on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
-    <atom:link href="http://example.org/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://santidu.github.io/" rel="self" type="application/rss+xml" />
 
     
       <item>
         <title>Posts</title>
-        <link>http://example.org/post/</link>
+        <link>https://santidu.github.io/post/</link>
         <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
         
-        <guid>http://example.org/post/</guid>
+        <guid>https://santidu.github.io/post/</guid>
         <description>
           
         </description>
@@ -22,10 +22,10 @@
     
       <item>
         <title>Works</title>
-        <link>http://example.org/work/</link>
+        <link>https://santidu.github.io/work/</link>
         <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
         
-        <guid>http://example.org/work/</guid>
+        <guid>https://santidu.github.io/work/</guid>
         <description>
           
         </description>
@@ -33,10 +33,10 @@
     
       <item>
         <title>About Hugo Prose</title>
-        <link>http://example.org/about/</link>
+        <link>https://santidu.github.io/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>Yihui Xie</author>
-        <guid>http://example.org/about/</guid>
+        <guid>https://santidu.github.io/about/</guid>
         <description>
           &lt;p&gt;&lt;strong&gt;Hugo Prose&lt;/strong&gt; is a minimalist theme derived from the &lt;a href=&#34;https://github.com/yihui/hugo-xmin&#34;&gt;&lt;strong&gt;XMin&lt;/strong&gt;
 theme&lt;/a&gt;, and inspired by
@@ -389,10 +389,10 @@ citations.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#3
     
       <item>
         <title>Cards</title>
-        <link>http://example.org/card/</link>
+        <link>https://santidu.github.io/card/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://example.org/card/</guid>
+        <guid>https://santidu.github.io/card/</guid>
         <description>
           
         </description>
@@ -400,10 +400,10 @@ citations.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#3
     
       <item>
         <title>Sitemap</title>
-        <link>http://example.org/sitemap/</link>
+        <link>https://santidu.github.io/sitemap/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://example.org/sitemap/</guid>
+        <guid>https://santidu.github.io/sitemap/</guid>
         <description>
           &lt;p&gt;Below is a full list of posts and pages on this website ordered by date.&lt;/p&gt;
 
