@@ -2,3 +2,5 @@ theme = "hugo-prose"
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+
+publishDir = 'docs'
