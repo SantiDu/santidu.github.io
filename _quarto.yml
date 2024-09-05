@@ -9,15 +9,9 @@ website:
     right:
       - text: Blog
         href: blog.qmd
-      - icon: instagram
-        href: https://www.instagram.com/santi_du
-      - icon: github
-        href: https://github.com/SantiDu
-      - icon: linkedin
-        href: https://www.linkedin.com/in/santidu
 format:
   html:
-    theme: lux
+    theme: flatly
     css: styles.css
 
 editor: visual

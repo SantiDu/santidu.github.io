@@ -1,19 +1,22 @@
 ---
-title: "About"
+title: Jinrui Du
 image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/SantiDu
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/santi_du
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
-
+      href: https://www.linkedin.com/in/santidu
 ---
 
-About this blog
+I am Jin, MSc student in Statistics and Data Science, C++ programmer, 
+
+also an amateur ballet dancer, singer, calisthenics disciple. I have a book list.
+
+The profile picture is AI-enhanced. I have never been that good looking.
