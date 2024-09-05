@@ -1,1 +1,1 @@
-Sitemap: https://SantiDu.github.io/santidu.github.io/sitemap.xml
+Sitemap: https://santidu.github.io/sitemap.xml
