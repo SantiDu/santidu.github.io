@@ -15,8 +15,8 @@ about:
       href: https://www.linkedin.com/in/santidu
 ---
 
-I am Jin, MSc student in Statistics and Data Science, C++ programmer, 
+I am Jin, MSc student in Statistics and Data Science. 
 
-also a ballet dancer, singer, intermediate calisthenics athlete. This is my book list.
-
-The profile picture is AI-enhanced. I have never been that good looking.
+I go to ballet class twice a week.
+I work out 6 times a week.
+I read and write every day.
